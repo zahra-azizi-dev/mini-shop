@@ -45,36 +45,10 @@ The main purpose of this project was to practice:
 * Working with images in Next.js
 * Designing modern e-commerce interfaces
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/zahra-azizi-dev/mini-shop.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd mini-shop
-```
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
 Open your browser and visit:
 
 ```text
-http://localhost:3000
+https://mini-shop-opal.vercel.app/
 ```
 
 ## 📸 Preview
